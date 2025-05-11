@@ -1,7 +1,6 @@
 # José Lucas
 
 Olá! Meu nome é **José Lucas** 👋, tenho 17 anos e sou natural do **Paraíba, Brasil**.
-
 Atualmente, estou cursando o terceiro ano do ensino médio.
 
 ![José Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=revoltzxp&show_icons=true&theme=dark)
