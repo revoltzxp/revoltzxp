@@ -5,9 +5,10 @@ Atualmente, estou cursando o terceiro ano do ensino médio.
 
 ![José Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=revoltzxp&show_icons=true&theme=dark)
 
-Minha trajetória na área de programação teve início aos 14 anos, desenvolvendo scripts para MTA:SA utilizando a linguagem **Lua**.
-Desde então, venho aprimorando meus conhecimentos e, hoje, atuo como desenvolvedor full-stack,
-com ênfase em **aplicações web** e na criação de sistemas para servidores MTA.
+Comecei minha jornada na programação aos 14 anos, criando scripts em Lua para servidores de MTA:SA.
+Desde então, venho evoluindo constantemente, explorando novas tecnologias e consolidando minha experiência
+como desenvolvedor full-stack. Atualmente, me dedico principalmente ao desenvolvimento de aplicações web e à
+criação de sistemas personalizados para servidores MTA.
 
 ## Tecnologias que uso no meu dia
 
