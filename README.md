@@ -1,16 +1,13 @@
 # José Lucas
 
 Oi! Sou José Lucas 👋, tenho 17 anos e sou da **Paraíba, Brasil**.
-Atualmente, estou no último ano do ensino médio e sigo me aprofundando na área de programação e nas diversas linguagens e tecnologias que ela envolve.
+--
 
 
 
 ![José Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=revoltzxp&show_icons=true&theme=dark)
 
-Comecei minha jornada na programação aos 14 anos, criando scripts em Lua para servidores de MTA:SA.
-Desde então, venho evoluindo constantemente, explorando novas tecnologias e consolidando minha experiência
-como desenvolvedor full-stack. Atualmente, me dedico principalmente ao desenvolvimento de aplicações web e à
-criação de sistemas personalizados para servidores MTA.
+--
 
 ## Tecnologias que uso no meu dia
 
